@@ -157,7 +157,7 @@ ctypst-base 是一个基础的 Typst 中文支持库，旨在为使用 Typst 进
 *   改进文档 (Pull Requests)
 *   提交代码 (Pull Requests)
 
-在您开始贡献之前，请花点时间阅读我们的 [贡献指南](CONTRIBUTING.md) (TODO: 创建 `CONTRIBUTING.md` 文件并填充内容)。
+在您开始贡献之前，请花点时间阅读我们的 [贡献指南](CONTRIBUTING.md)。
 
 ## 📜 许可证
 
