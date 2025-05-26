@@ -1,4 +1,5 @@
 #import "zhnumber.typ": zhnumber-lower, zhnumber-upper
+#import "pinyin.typ": pinyin
 
 #let setup-base-fonts(
   cjk-serif-family: (
