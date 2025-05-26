@@ -4,11 +4,11 @@
 
 = 中文测试 Chinese Test
 
-*你好*世界你好世界你好世界你好世界你好世界你好世界你好世界
+*#zhlorem(20)*
 
-你好*世界*你好世界你好世界你好世界你好世界你好世界你好世界
+#zhlorem(10)*#zhlorem(10)*
 
-你好世界*你好*世界你好世界你好世界你好世界你好世界你好世界
+#zhlorem(10)*#zhlorem(10)*
 
 = 中文数字转换测试 Chinese Number Converting Test
 
