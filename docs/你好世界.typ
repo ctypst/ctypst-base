@@ -8,7 +8,11 @@
 
 #zhlorem(10)*#zhlorem(10)*
 
-#zhlorem(10)*#zhlorem(10)*
+#zhlorem(10)_#zhlorem(10)_
+
+中文this is a raw paragraph between中文.
+
+你好世界
 
 = 中文数字转换测试 Chinese Number Converting Test
 
